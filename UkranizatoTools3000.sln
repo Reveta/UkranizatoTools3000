@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UkranizatoTools3000", "UkranizatoTools3000\UkranizatoTools3000.csproj", "{489CB8F3-0C06-4112-99E5-387872FCAB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489CB8F3-0C06-4112-99E5-387872FCAB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489CB8F3-0C06-4112-99E5-387872FCAB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489CB8F3-0C06-4112-99E5-387872FCAB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489CB8F3-0C06-4112-99E5-387872FCAB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
